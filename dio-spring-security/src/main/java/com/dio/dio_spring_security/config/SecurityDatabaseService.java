@@ -1,7 +1,7 @@
-package com.dio.dio_spring_security_jwt.config;
+package com.dio.dio_spring_security.config;
 
-import com.dio.dio_spring_security_jwt.entities.User;
-import com.dio.dio_spring_security_jwt.repositories.UserRepository;
+import com.dio.dio_spring_security.entities.User;
+import com.dio.dio_spring_security.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

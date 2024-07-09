@@ -1,7 +1,7 @@
-package com.dio.dio_spring_security_jwt.applications;
+package com.dio.dio_spring_security.applications;
 
-import com.dio.dio_spring_security_jwt.entities.User;
-import com.dio.dio_spring_security_jwt.repositories.UserRepository;
+import com.dio.dio_spring_security.entities.User;
+import com.dio.dio_spring_security.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.security.crypto.password.PasswordEncoder;

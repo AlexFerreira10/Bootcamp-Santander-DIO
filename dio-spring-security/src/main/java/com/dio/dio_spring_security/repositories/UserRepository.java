@@ -1,9 +1,9 @@
-package com.dio.dio_spring_security_jwt.repositories;
+package com.dio.dio_spring_security.repositories;
 
+import com.dio.dio_spring_security.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;
-import com.dio.dio_spring_security_jwt.entities.User;
 import org.springframework.stereotype.Repository;
 
 @Repository

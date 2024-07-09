@@ -1,4 +1,4 @@
-package com.dio.dio_spring_security_jwt.entities;
+package com.dio.dio_spring_security.entities;
 
 import jakarta.persistence.*;
 import java.util.ArrayList;

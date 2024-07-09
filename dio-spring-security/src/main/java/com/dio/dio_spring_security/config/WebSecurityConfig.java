@@ -1,4 +1,4 @@
-package com.dio.dio_spring_security_jwt.config;
+package com.dio.dio_spring_security.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
